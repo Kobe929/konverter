@@ -29,16 +29,16 @@ public class App extends Methods {
 			kilogramiFunte(izracunat);
 			break;
 		case (3):
-			centimetarInch(5);
+			centimetarInch(izracunat);
 			break;
 		case (4):
-			inchCentimetar(5);
+			inchCentimetar(izracunat);
 			break;
 		case (5):
-			celsiusFarenheit(5);
+			celsiusFarenheit(izracunat);
 			break;
 		case (6):
-			farenheitCelsius(5);
+			farenheitCelsius(izracunat);
 			break;
 		}
 
