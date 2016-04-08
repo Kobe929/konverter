@@ -19,10 +19,10 @@ public class Methods {
 		System.out.println("inca "+a+" u centimetrima je "+(a/2.54f));
 	}
 
-	public static void celsiusToFarenheit(double a) {
-		System.out.println((a * 9/5) + 32);
+	public static void celsiusFarenheit(double a) {
 	}
 
-	public static void farenheitToCelsius(double a) {
+	public static void farenheitCelsius(double a) {
+		System.out.println((a - 32) * 5/9);
 	}
 }
