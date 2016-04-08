@@ -3,13 +3,19 @@ package konverter;
 public class Methods {
 
 	public static void kilogramiFunte(double a) {
+<<<<<<< HEAD
+		
+		System.out.println(a + " kilograma je " +(a*2.2046)+ " funti.");
+=======
 
 		System.out.println(a + " kilograma je " +(a*2.2046)+ " funti.");
 
+>>>>>>> f09dc579d1240a23fecaeffa8cd67641fde69fc4
 	}
 
 	public static void funteKilogrami(double a) {
-
+		
+		System.out.println(a + " funti je " +(a/2.2046)+ " kilograma.");
 	}
 	public static void centimetarInch(double a) {
 		//centimetri u ince
