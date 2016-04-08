@@ -15,7 +15,8 @@ public class Methods {
 	}
 
 	public static void inchCentimetar(double a) {
-		
+		//centimetri u ince
+		System.out.println("inca "+a+" u centimetrima je "+(a/2.54f));
 	}
 
 	public static void celsiusToFarenheit(double a) {
