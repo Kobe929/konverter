@@ -18,11 +18,10 @@ public class Methods {
 		
 	}
 
-	public static void celsiusFarenheit(double a) {
-
+	public static void celsiusToFarenheit(double a) {
+		System.out.println((a * 9/5) + 32);
 	}
 
-	public static void farenheitCelsius(double a) {
-
+	public static void farenheitToCelsius(double a) {
 	}
 }
